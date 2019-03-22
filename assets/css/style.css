@@ -1,0 +1,28 @@
+#h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-color: rgb(61, 1, 110);
+    text-align: center;
+    padding: 20px 40px;
+    font-style: bolder;
+  }
+  
+  #h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: grey;
+    text-align: left;
+    font-style: bold;
+    font-size: 10px;
+  }
+  
+  #h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px 40px;
+    text-align: left;
+    font-size: 10px;
+  }
+  
+  #buttons {
+    text-align: center;
+    margin-top: 10px;
+  }
